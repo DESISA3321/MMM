@@ -1,0 +1,10 @@
+{
+  "name": "My Money Manager",
+  "description": "Smart personal finance and money manager with expense & income tracking, receipt scanning, auto-reading SMS & Google Pay alerts, AI categorization, interactive data visualization, forecast analytics, multi-currency support, and cloud backup.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
